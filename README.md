@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a research assistant at the School of Astronomy - Institute for research in fundamental sciences (IPM) <br>👯 I’m looking to collaborate on Observational Astronomy related projects<br>🤝 I’m looking for help with programming and data science<br>🌱 I’m currently learning python and more<br>
+🔭 I’m currently working as a PhD candidate in the 3D ISM group of AoP - Chalmers University of Technology. <br>👯 I’m looking to collaborate on Observational Astronomy related projects<br>🤝 I’m looking for help with programming and data science<br>🌱 I’m currently learning python and more<br>
 
 
 ## 🌐 Socials:
