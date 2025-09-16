@@ -1,7 +1,5 @@
 # MJ Shahhoseini
 
-<img src="PH2100033.jpg" alt="MJ Shahhoseini" width="160" align="right" />
-
 **Astrophysics PhD Student — ISM & Molecular Clouds**  
 Astronomy & Plasma (AoP) | Space, Earth & Environment (SEE)  
 Chalmers University of Technology · Onsala Space Observatory  
@@ -9,7 +7,7 @@ Chalmers University of Technology · Onsala Space Observatory
 ---
 
 ### 👋 About
-I study the **interstellar medium (ISM)** in the Milky Way, focusing on the distribution of dust and gas, turbulence, extinction, and the structure of molecular clouds.  
+My name is MJ (Mohammad Javad) Shahhoseini and I study the **interstellar medium (ISM)** in the Milky Way, focusing on the distribution of dust and gas, turbulence, extinction, and the structure of molecular clouds.  
 I build and analyze **Gaia-based 3D dust-extinction maps** to derive density PDFs and compare 3D vs 2D statistics to probe star-formation physics.
 
 ---
