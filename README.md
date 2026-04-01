@@ -1,8 +1,7 @@
 # MJ Shahhoseini
 
 **Astrophysics PhD Student — ISM & Molecular Clouds**  
-Astronomy & Plasma (AoP) | Department of Physics and Astronomy
-
+Astronomy & Plasma (AoP) | Department of Physics and Astronomy \newline
 Chalmers University of Technology · Onsala Space Observatory  
 
 ---
